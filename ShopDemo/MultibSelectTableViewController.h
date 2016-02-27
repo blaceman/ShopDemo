@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MultibSelectTableViewController.h
 //  ShopDemo
 //
 //  Created by kkk on 15/12/31.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MultibSelectTableViewController : UITableViewController
 
 @end
-
